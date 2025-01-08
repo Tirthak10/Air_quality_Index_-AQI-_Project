@@ -1,1 +1,3 @@
-# Air_quality_Index_-AQI-_Project
+Air_quality_Index_-AQI-_Project
+The **Air Quality Index (AQI) Project** is a robust analysis tool designed to monitor air quality using Python and the OpenWeatherMap API. This project fetches historical air quality data for specified cities, allowing users to track pollution levels over time. Key features include importing essential libraries such as Requests, Pandas, and Matplotlib, retrieving AQI data through API calls, and visualizing the results to identify trends in air quality. Users can easily modify parameters like city names and date ranges to customize their analysis. To get started, clone the repository and install the required libraries with `pip install -r requirements.txt`. Contributions are encouraged to enhance this project further, making it a valuable resource for environmental monitoring and data analysis related to air quality.
+
